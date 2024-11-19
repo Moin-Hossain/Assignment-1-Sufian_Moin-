@@ -1,0 +1,7 @@
+pippandas
+numpy
+altair
+streamlit
+matplotlib
+scipy
+scikit-learn
